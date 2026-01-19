@@ -1,6 +1,6 @@
 # giffinallab4GW24CI002
 <html>
-  <head><title>FINAL GIT LAB</title></head>
+  <head>FINAL GIT LAB</head>
   <body>
     <ol>
 <li>Created a repo with usn</li> 
